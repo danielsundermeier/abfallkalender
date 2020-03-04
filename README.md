@@ -6,7 +6,7 @@ Abfallkalender als iCal Feed ([Durth Roos Consulting GmbH](https://durth-roos.de
 
 ```
 git clone https://github.com/danielsundermeier/abfallkalender.git
-cd abfallaklender
+cd abfallkalender
 mv config.example.php config.php
 ```
 
